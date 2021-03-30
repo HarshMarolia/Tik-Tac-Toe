@@ -1,4 +1,4 @@
-package com.example.game;
+package com.example.lb6;
 
 import org.junit.Test;
 
