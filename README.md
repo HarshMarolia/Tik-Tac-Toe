@@ -6,4 +6,4 @@ The player who succeeds in placing three of their marks in a horizontal, vertica
 * It has a text-view that tells the players, whose turn it is to play or which person has won the game.
 * It has a reset button which resets and starts the game from the very beginning.
 
-Enjoy ✌😊
+You can download the apk of game from the release section. Enjoy ✌😊
